@@ -188,7 +188,7 @@ DEPT_INFO = {
 st.markdown("""
 <div style="
 background:linear-gradient(
-135deg,
+#135deg,
 #1e3a8a 0%,
 #1a56db 60%,
 #0ea5e9 100%);
